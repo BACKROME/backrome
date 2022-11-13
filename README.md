@@ -1,16 +1,23 @@
-### Hi there 👋
+﻿# Welcome
 
-<!--
-**BACKROME/backrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. My nickname is Backrome and I am an Android developer as well as a desktop developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# repository
+
+All my repositories are private and not available to the public.
+Send a message in [Telegram](https://t.me/backrome777) to develop or exploit the reservoirs.
+
+ 
+
+ ![backrome](https://backrome.ir/jpg.jpg)
+|Name| version|
+|--|--|
+| BACKVPN | 2.1.0 |
+|Thunder Runner| 4.3.1 |
+|Thunder installer| 2.1 |
+| Thunder program | 2.1 |
+| RubTR | 5.4.0 |
+| Thunder | 4.5.1 |
+
+
