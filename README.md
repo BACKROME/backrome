@@ -1,8 +1,8 @@
+
 ﻿# Welcome
-![Profile](https://s2.uupload.ir/files/20221223_070147_uemg.png)
-Hello. My nickname is Backrome and I am an Android developer as well as a desktop developer
-
-
+![Profile](https://s2.uupload.ir/files/20221223_070509_aal.png)
+Hello. My nickname is <p class='blink'>Backrome</p> and I am an Android developer as well as a desktop developer
+![list](https://s2.uupload.ir/files/20221223_071236_1uy9.png)
 # repository
 
 All my repositories are private and not available to the public.
